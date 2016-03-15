@@ -1,0 +1,23 @@
+# file: production
+
+[PTK-ALL:children]
+PTK-IATGs
+PTK-IALBs
+PTK-LATGs
+PTK-LALBs
+PTK-IDTGs
+PTK-IDLBs
+
+# Iowa
+[PTK-IATGs]
+[PTK-IALBs]
+
+# Louisiana
+[PTK-LATGs]
+[PTK-LALBs]
+
+# Idaho
+[PTK-IDTGs]
+[PTK-IDLBs]
+
+

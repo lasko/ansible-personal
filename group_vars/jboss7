@@ -1,0 +1,5 @@
+---
+# file: jboss7
+standaloneTimeout: 15000
+standaloneThreads: 150
+
